@@ -1,18 +1,21 @@
+**FMCG Corporate Financial & P&L Performance Dashboard**
+
 An enterprise-grade, dark-themed Power BI Financial Dashboard designed to track and analyze a company's Profit and Loss (P&L) performance. This dynamic tool consolidates complex financial structures (from Gross Sales to EBITDA) into actionable, high-level and granular insights for financial controllers, commercial directors, and senior stakeholders.
 
-🔒 Data Confidentiality & Anonymization Disclaimer
+🔒 **Data Confidentiality & Anonymization Disclaimer**
 
-Important Note for Recruiters & Viewers:
+Important Note for Viewers:
 
 This dashboard is built utilizing real-world, highly sensitive corporate financial data. To strictly comply with Non-Disclosure Agreements (NDAs) and protect corporate proprietary information, all brand names, customer identifiers, absolute financial values, and volumes have been strictly anonymized and blurred/masked.
 
 However, all calculations, complex DAX measures, database schemas, visual hierarchies, and business logic remain 100% functional and intact to fully demonstrate professional data modeling and business intelligence capabilities.
 
-📊 Corporate Financial Dashboard Overview
+📊 **Corporate Financial Dashboard Overview**
+![Dashboard Screenshot](Financial_Dashboard_Overview.png)
 
 This premium corporate dashboard provides a centralized view of the company's financial health, performance against budget (AOP), and Last Year (LY) historical comparisons.
 
-Key Financial & Analytical Features:
+**Key Financial & Analytical Features**:
 
 Interactive P&L Structural Tree (Matrix): Dynamically drill down into key financial lines:
 
@@ -36,11 +39,10 @@ Temporal & Geographical Views: Toggle between full-year views (2024, 2025, 2026)
 
 Monthly Volume Dynamics: View historical trendlines comparing Actual Volumes against the Annual Operational Plan (AOP) and previous years to detect seasonality.
 
-Tech Stack & Modeling Capabilities
+**Tech Stack & Modeling Capabilities**
 
 Power BI Desktop: Advanced report layout utilizing a custom dark theme optimized for C-level presentations.
 
 Complex DAX Formulas: Time-intelligence calculations, dynamic % variances, conditional KPI signaling, and complex cumulative financial metrics.
 
-Data Cleansing (Power Query): Structured ETL processes to handle financial hierarchical tables and map COGS/Revenue streams accurately.# Commercial-Finance-P-L-Dashboard
-Financial Dashboard designed to track and analyze a company's Profit and Loss (P&amp;L) performance.
+Data Cleansing (Power Query): Structured ETL processes to handle financial hierarchical tables and map COGS/Revenue streams accurately.
