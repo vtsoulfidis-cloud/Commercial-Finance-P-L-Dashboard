@@ -8,8 +8,6 @@ Important Note for Viewers:
 
 This dashboard is built utilizing real-world, highly sensitive corporate financial data. To strictly comply with Non-Disclosure Agreements (NDAs) and protect corporate proprietary information, all brand names, customer identifiers, absolute financial values, and volumes have been strictly anonymized and blurred/masked.
 
-However, all calculations, complex DAX measures, database schemas, visual hierarchies, and business logic remain 100% functional and intact to fully demonstrate professional data modeling and business intelligence capabilities.
-
 📊 **Corporate Financial Dashboard Overview**
 ![Dashboard Screenshot](Financial_Dashboard_Overview.png)
 
